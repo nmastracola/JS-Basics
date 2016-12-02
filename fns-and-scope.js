@@ -38,7 +38,8 @@ var name = 'Tyler';
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+  //an argument is the value of the parameter you pass into a function
+  //the parameter is a variable in the declaration of a function
 
 
 //////////////////PROBLEM 5////////////////////
@@ -48,7 +49,8 @@ var name = 'Tyler';
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  // Values are 0, "", false, Nan, null, undefined
+
 
 
 
